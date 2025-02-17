@@ -9,7 +9,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		//Version 1.1
-		System.out.println("V1.3");
+		System.out.println("V1.1");
 		SpringApplication.run(DemoApplication.class, args);
 
 	}
